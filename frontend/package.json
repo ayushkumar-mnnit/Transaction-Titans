@@ -11,6 +11,7 @@
     "dotenv": "^16.3.1",
     "instafeed.js": "^2.0.0",
     "jsonwebtoken": "^9.0.0",
+    "node-modules": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.0",
